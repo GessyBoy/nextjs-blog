@@ -1,1 +1,1 @@
-first Nextjs application deployed with Vercel:https://nextjs-blog-60fjmu92u-gessyboy.vercel.app/
+first Nextjs application deployed with Vercel:https://nextjs-blog-omega-lac-29.vercel.app/
